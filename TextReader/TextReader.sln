@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReader", "TextReader\TextReader.csproj", "{A14F044F-C448-4268-B4BA-BAB7A172F0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A14F044F-C448-4268-B4BA-BAB7A172F0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14F044F-C448-4268-B4BA-BAB7A172F0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14F044F-C448-4268-B4BA-BAB7A172F0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14F044F-C448-4268-B4BA-BAB7A172F0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
